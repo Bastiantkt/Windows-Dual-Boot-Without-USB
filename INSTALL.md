@@ -20,6 +20,7 @@ You will use `diskpart` to create a new partition for Windows.
 2.1 List Disks
 
 `diskpart`
+
 `list disk`
 
 This will list all available disks. Identify the disk where you want to install Windows.
