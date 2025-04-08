@@ -25,11 +25,13 @@ You will use `diskpart` to create a new partition for Windows.
 
 This will list all available disks. Identify the disk where you want to install Windows / Shrink the partition.
 
+
 2.2 Select the Disk
 
 `sel disk x`
 
 Replace x with the number of the disk where you want to install Windows.
+
 
 2.3 List Partitions
 
