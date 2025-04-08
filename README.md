@@ -1,8 +1,8 @@
 # Dual Boot Windows Installation from a Live System
 
 ## Prerequisites
-- A bootable Windows installation media (USB/DVD) or ISO you have extracted or mounted with the .WIM you want to deploy to your shrinked partition.
-- A live system (e.g., Windows PE or any Linux live system with access to `diskpart` and `dism` commands).
+- Windows installation media (USB/DVD) or ISO you have extracted or mounted with the .WIM you want to deploy to your shrinked partition.
+- A live system Windows with access to `diskpart` and `dism` commands).
 - A working knowledge of partitioning and disk management.
 
 ## Installation Steps
