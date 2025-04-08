@@ -23,7 +23,7 @@ You will use `diskpart` to create a new partition for Windows.
 
 `list disk`
 
-This will list all available disks. Identify the disk where you want to install Windows.
+This will list all available disks. Identify the disk where you want to install Windows / Shrink the partition.
 
 2.2 Select the Disk
 
