@@ -78,6 +78,7 @@ Verify that your new partition has been created successfully.
 Find the EFI partition (usually labeled as such) and assign it a letter (e.g., W):
 
 `sel par x`
+
 `assign letter W`
 
 Replace x with the partition number of the EFI partition.
