@@ -75,7 +75,7 @@ Verify that your new partition has been created successfully.
 
 2.10 Assign a Drive Letter to the EFI Partition
 
-Find the EFI partition (usually labeled as such) and assign it a letter (e.g., W):
+Find the EFI partition (usually labeled as such and generaly the first partition) and assign it a letter (e.g., W):
 
 `sel par x`
 
