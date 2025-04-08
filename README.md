@@ -1,4 +1,4 @@
-# Dual Boot Windows Installation from a Live System
+# Dual Boot Windows Installation from a Live System (UEFI)
 
 ## Prerequisites
 - Windows installation media (USB/DVD) or ISO you have extracted or mounted with the .WIM you want to deploy to your shrinked partition.
