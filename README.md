@@ -117,6 +117,10 @@ Once the image is applied, you need to set up the bootloader.
 
 This will copy the necessary boot files to the EFI partition.
 
+4.2 Configure the Bootloader to get the old Menu like Windows 7 
+
+`bcdedit /set bootmenupolicy legacy`
+
 ## 5. Restart the System
 
 Finally, reboot the system to complete the installation process.
