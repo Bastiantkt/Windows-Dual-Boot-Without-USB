@@ -7,13 +7,13 @@
 
 ## Installation Steps
 
-1. Open Command Prompt (or equivalent terminal)
+## 1. Open Command Prompt (or equivalent terminal)
 
 Start by opening the command prompt or terminal in your live system.
 
 ---
 
-2. Partitioning the Disk
+## 2. Partitioning the Disk
 
 You will use `diskpart` to create a new partition for Windows.
 
@@ -81,7 +81,7 @@ Find the EFI partition (usually labeled as such) and assign it a letter (e.g., W
 
 Replace x with the partition number of the EFI partition.
 
-3. Apply Windows Image
+## 3. Apply Windows Image
 
 Now you will apply the Windows image to the newly created partition using dism.
 
@@ -105,7 +105,7 @@ Now, apply the selected Windows edition to the new partition:
 
 Replace x with the index of the desired Windows edition.
 
-4. Set Up Boot Configuration
+## 4. Set Up Boot Configuration
 
 Once the image is applied, you need to set up the bootloader.
 
@@ -115,7 +115,7 @@ Once the image is applied, you need to set up the bootloader.
 
 This will copy the necessary boot files to the EFI partition.
 
-5. Restart the System
+## 5. Restart the System
 
 Finally, reboot the system to complete the installation process.
 
